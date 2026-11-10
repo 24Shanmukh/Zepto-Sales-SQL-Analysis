@@ -1,0 +1,23 @@
+store_id,store_code,city,area,opened_on
+1,ZPT-BEN-01,Bengaluru,Koramangala,2022-06-11
+2,ZPT-BEN-02,Bengaluru,HSR Layout,2023-04-10
+3,ZPT-BEN-03,Bengaluru,Indiranagar,2022-01-04
+4,ZPT-BEN-04,Bengaluru,Whitefield,2022-09-27
+5,ZPT-BEN-05,Bengaluru,Jayanagar,2023-05-28
+6,ZPT-MUM-06,Mumbai,Andheri West,2022-07-02
+7,ZPT-MUM-07,Mumbai,Powai,2023-06-04
+8,ZPT-MUM-08,Mumbai,Bandra,2022-04-19
+9,ZPT-MUM-09,Mumbai,Thane West,2023-10-03
+10,ZPT-DEL-10,Delhi NCR,Gurugram Sector 45,2022-11-02
+11,ZPT-DEL-11,Delhi NCR,Noida Sector 62,2023-10-17
+12,ZPT-DEL-12,Delhi NCR,Saket,2023-06-04
+13,ZPT-DEL-13,Delhi NCR,Dwarka,2023-09-16
+14,ZPT-HYD-14,Hyderabad,Gachibowli,2022-07-23
+15,ZPT-HYD-15,Hyderabad,Madhapur,2022-06-06
+16,ZPT-HYD-16,Hyderabad,Kondapur,2023-01-18
+17,ZPT-PUN-17,Pune,Kothrud,2022-06-15
+18,ZPT-PUN-18,Pune,Baner,2023-07-07
+19,ZPT-PUN-19,Pune,Viman Nagar,2023-06-28
+20,ZPT-CHE-20,Chennai,Velachery,2022-01-01
+21,ZPT-CHE-21,Chennai,Anna Nagar,2023-09-06
+22,ZPT-CHE-22,Chennai,OMR,2022-11-28

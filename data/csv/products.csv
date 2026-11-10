@@ -1,0 +1,107 @@
+product_id,product_name,category_id,brand,mrp,cost_price,weight_in_gms
+101,Banana Robusta 1 kg,1,Fresho,60,37.43,1000
+102,Tomato Hybrid 500 g,1,Fresho,30,20.01,500
+103,Onion 1 kg,1,Fresho,45,29.22,1000
+104,Potato 1 kg,1,Fresho,40,26.12,1000
+105,Apple Shimla 4 pcs,1,Fresho,160,98.71,600
+106,Coriander Leaves 100 g,1,Fresho,15,9.32,100
+107,Green Chilli 100 g,1,Fresho,12,7.27,100
+108,Carrot Ooty 500 g,1,Fresho,40,26.51,500
+109,Pomegranate 2 pcs,1,Fresho,140,89.47,500
+110,Watermelon Kiran 1 pc,1,Fresho,90,60.0,2000
+111,Lemon 4 pcs,1,Fresho,25,16.34,200
+112,Cucumber 500 g,1,Fresho,28,17.73,500
+113,Mango Alphonso 6 pcs,1,Fresho,599,399.49,1200
+114,Ginger 100 g,1,Fresho,20,13.1,100
+115,Amul Taaza Toned Milk 500 ml,2,,28,22.79,500
+116,Amul Gold Full Cream Milk 1 L,2,Amul,68,55.91,1000
+117,Nandini Toned Milk 500 ml,2,Nandini,24,20.33,500
+118,Britannia Brown Bread 400 g,2,Britannia,55,45.03,400
+119,Harvest Gold White Bread 400 g,2,Harvest Gold,45,36.08,400
+120,Farm Fresh Eggs 6 pcs,2,Eggoz,60,51.81,360
+121,Eggoz Protein Eggs 12 pcs,2,Eggoz,150,120.32,720
+122,Amul Butter 100 g,2,Amul,58,47.0,100
+123,Amul Masti Dahi 400 g,2,Amul,35,29.33,400
+124,Milky Mist Paneer 200 g,2,Milky Mist,95,80.95,200
+125,Amul Cheese Slices 200 g,2,Amul,145,114.62,200
+126,Mother Dairy Curd 400 g,2,Mother Dairy,40,33.53,400
+127,Lay's Classic Salted 52 g,3,Lay's,20,12.45,52
+128,Kurkure Masala Munch 90 g,3,Kurkure,20,12.45,90
+129,Haldiram's Bhujia 400 g,3,Haldiram's,110,62.85,400
+130,Bingo Mad Angles 66 g,3,Bingo,20,11.76,66
+131,Doritos Nacho Cheese 82 g,3,Doritos,50,28.71,82
+132,Britannia Good Day 200 g,3,Britannia,40,23.18,200
+133,Parle-G 800 g,3,Parle,90,53.33,800
+134,Oreo Chocolate 120 g,3,Cadbury,35,19.7,120
+135,Dairy Milk Silk 60 g,3,Cadbury,90,54.29,60
+136,KitKat 4 Finger 37 g,3,Nestle,30,17.74,37
+137,Pringles Sour Cream 107 g,3,Pringles,115,65.85,107
+138,Too Yumm Multigrain Chips 54 g,3,,20,11.74,54
+139,Coca-Cola 750 ml,4,Coca-Cola,40,25.6,750
+140,Thums Up 750 ml,4,Coca-Cola,40,26.42,750
+141,Sprite 750 ml,4,Coca-Cola,40,26.05,750
+142,Real Fruit Juice Mixed 1 L,4,Dabur,125,87.34,1000
+143,Paper Boat Aamras 250 ml,4,Paper Boat,35,24.0,250
+144,Red Bull 250 ml,4,Red Bull,125,85.15,250
+145,Bisleri Water 1 L,4,Bisleri,20,13.93,1000
+146,Tropicana Orange 1 L,4,Tropicana,130,89.08,1000
+147,Sting Energy 250 ml,4,PepsiCo,20,13.89,250
+148,Raw Pressery Coconut Water 200 ml,4,Raw Pressery,60,40.92,200
+149,Amul Vanilla Ice Cream 1 L,5,Amul,180,119.09,1000
+150,Kwality Wall's Cornetto,5,Kwality Wall's,45,30.67,120
+151,Magnum Almond 80 ml,5,Kwality Wall's,90,61.3,80
+152,Baskin Robbins Mississippi Mud 500 ml,5,Baskin Robbins,299,207.2,500
+153,McCain French Fries 420 g,5,McCain,130,89.54,420
+154,Safal Frozen Green Peas 500 g,5,Safal,95,60.75,500
+155,ID Malabar Parota 5 pcs,5,iD Fresh,75,49.55,400
+156,Amul Kool Kesar Kulfi,5,,30,19.91,60
+157,Aashirvaad Atta 5 kg,6,Aashirvaad,285,235.05,5000
+158,India Gate Basmati Rice 1 kg,6,India Gate,150,117.62,1000
+159,Tata Sampann Toor Dal 1 kg,6,Tata Sampann,185,152.68,1000
+160,Fortune Sona Masoori Rice 5 kg,6,Fortune,395,319.78,5000
+161,Tata Sampann Moong Dal 500 g,6,Tata Sampann,95,72.69,500
+162,Pillsbury Chakki Atta 5 kg,6,Pillsbury,275,217.42,5000
+163,Rajdhani Besan 500 g,6,Rajdhani,70,55.77,500
+164,Fortune Sunflower Oil 1 L,7,Fortune,165,121.19,1000
+165,Saffola Gold Oil 1 L,7,Saffola,210,151.87,1000
+166,Tata Salt 1 kg,7,Tata,28,20.38,1000
+167,Everest Turmeric Powder 100 g,7,Everest,38,29.14,100
+168,MDH Garam Masala 100 g,7,MDH,92,71.84,100
+169,Catch Red Chilli Powder 100 g,7,Catch,45,34.23,100
+170,Madhur Sugar 1 kg,7,Madhur,55,42.03,1000
+171,Patanjali Cow Ghee 500 ml,7,Patanjali,340,261.18,500
+172,Maggi 2-Minute Noodles 280 g,8,Nestle,56,35.3,280
+173,Kellogg's Corn Flakes 475 g,8,Kellogg's,210,133.35,475
+174,Quaker Oats 1 kg,8,Quaker,199,134.15,1000
+175,Yippee Noodles Pack of 4,8,Sunfeast,60,39.02,240
+176,MTR Rava Idli Mix 500 g,8,MTR,120,80.22,500
+177,Kissan Mixed Fruit Jam 500 g,8,Kissan,165,104.34,500
+178,Sundrop Peanut Butter 462 g,8,Sundrop,225,149.41,462
+179,Chings Schezwan Noodles 240 g,8,Ching's,60,40.65,240
+180,Dove Shampoo 340 ml,9,Dove,325,174.27,340
+181,Colgate Strong Teeth 200 g,9,Colgate,110,56.77,200
+182,Dettol Soap Pack of 4,9,Dettol,190,101.69,500
+183,Nivea Body Lotion 400 ml,9,Nivea,399,205.32,400
+184,Gillette Guard Razor,9,Gillette,30,14.84,20
+185,Whisper Ultra XL 15 pcs,9,Whisper,199,104.76,300
+186,Himalaya Face Wash 150 ml,9,Himalaya,185,99.52,150
+187,Pears Soap Pack of 3,9,Pears,165,80.55,375
+188,Surf Excel Easy Wash 1 kg,10,Surf Excel,140,77.98,1000
+189,Vim Dishwash Liquid 500 ml,10,Vim,115,67.21,500
+190,Harpic Toilet Cleaner 500 ml,10,Harpic,99,58.14,500
+191,Lizol Floor Cleaner 975 ml,10,Lizol,215,125.39,975
+192,Good Knight Refill,10,Good Knight,85,46.69,45
+193,Scotch-Brite Scrub Pad 3 pcs,10,Scotch-Brite,60,32.31,60
+194,Garbage Bags Medium 30 pcs,10,Ezee,99,55.71,300
+195,Pampers Pants M 56 pcs,11,Pampers,999,732.69,1500
+196,Huggies Wipes 72 pcs,11,Huggies,199,141.39,400
+197,Cerelac Wheat Apple 300 g,11,Nestle,285,189.89,300
+198,Johnson's Baby Powder 200 g,11,Johnson's,165,115.48,200
+199,Himalaya Baby Lotion 200 ml,11,Himalaya,175,116.91,200
+200,Tata Tea Gold 500 g,12,Tata Tea,285,193.4,500
+201,Nescafe Classic 50 g,12,Nescafe,190,140.29,50
+202,Bru Instant Coffee 100 g,12,Bru,270,185.88,100
+203,Horlicks Classic Malt 500 g,12,Horlicks,285,196.99,500
+204,Bournvita 500 g,12,Cadbury,245,171.84,500
+205,Red Label Tea 250 g,12,Brooke Bond,150,108.06,250
+206,Green Tea Lipton 25 bags,12,Lipton,165,114.52,50
