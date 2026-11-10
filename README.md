@@ -123,4 +123,4 @@ Business rule used throughout: **revenue = quantity × selling price, for delive
 
 ---
 
-**Author:** Shanmukha Badiger · Financial Analyst · [GitHub: 24Shanmukh](https://github.com/24Shanmukh)
+**Author:** Shanmukha Badiger · Analyst · [GitHub: 24Shanmukh](https://github.com/24Shanmukh)
